@@ -10,7 +10,6 @@ function App() {
 
 
   async function handSearch() {
-    //97015140/json/
 
     if(input == ''){
       alert('Preencha com algum CEP!')
@@ -58,7 +57,6 @@ function App() {
         {Object.keys(cep).length > 0 && ( // verifica se tem alguma coisa dentro do objeto, ou seja, se o objeto for maior que ) irá mostrar na tela o codigo dentro dos parenteses
           <Main>
           <h2>CEP: {cep.cep}</h2>
-
           <span>{cep.localidade} - {cep.uf}</span>
           <span>{cep.logradouro}</span>
           <span>{cep.bairro}</span>
