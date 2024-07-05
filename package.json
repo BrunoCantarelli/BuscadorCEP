@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://BrunoCantarelli.github.io/BuscadorCEP",
+  "homepage": "https://brunocantarelli.github.io/BuscadorCEP",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -34,7 +34,7 @@
   "main": "vite.config.js",
   "repository": {
     "type": "git",
-    "url": "buscadorCep"
+    "url": "BuscadorCEP"
   },
   "author": "Bruno Cantarelli",
   "license": "ISC"
