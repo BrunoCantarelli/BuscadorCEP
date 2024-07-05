@@ -4,7 +4,6 @@
   "version": "0.0.0",
   "type": "module",
   "homepage": "https://BrunoCantarelli.github.io/buscadorcep",
-
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -30,5 +29,13 @@
     "eslint-plugin-react-refresh": "^0.4.3",
     "gh-pages": "^6.1.1",
     "vite": "^4.4.5"
-  }
+  },
+  "description": "Projeto feito com ReatJs utilizando API de CEP",
+  "main": "vite.config.js",
+  "repository": {
+    "type": "git",
+    "url": "buscadorCep"
+  },
+  "author": "Bruno Cantarelli",
+  "license": "ISC"
 }
